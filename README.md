@@ -51,16 +51,15 @@ This project presents an interactive Commercial Sales Dashboard developed using 
 ✔ Business Insights for Decision Making
 
 ---
-
-## 📂 Project Structure
-
+## 📁 Project Structure
 ```
 Commercial-Sales-Dashboard/
 │
 ├── Commercial Sales Dashboard.pbix
-├── README.md
-├── dataset.csv
-└── dashboard_screenshot.png
+├── Orders.csv
+├── Details.csv
+├── Screenshot 2026-06-19 010948.png
+└── README.md
 ```
 
 ---
